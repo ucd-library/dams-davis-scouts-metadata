@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/011-Overnight_Hike_at_Straloch_Farm.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1923-05-18"
+  },
+  "schema:description": "American Flag Presented To Davis Scouts By The American Legion, Post On This Hike. Upper E. Wilson, L. Ingrim, H.H. Landrom, G. True, G. Schnitter Middle R. Howard, C. Becker, [J. Haussler?]Lower F. Sears, T. Howard",
+  "schema:identifier": [
+    "MC-201",
+    "ark:/87293/d30q93"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5b69r85p/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "011 Overnight Hike Straloch Farm",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

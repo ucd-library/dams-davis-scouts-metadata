@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/028-Southside_Park_and_Parkside_Baths_Sacramento.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1924-05-24"
+  },
+  "schema:description": "Standing: W. Lippincott, Dr. Lippincott, T. Howard, Dr. Howard, E. Williams, M. Williams, G.P. Hoag, P. Hoag, B. Shierlon, H. MacDonald, H. Frost, D. HatfieldKneeling: V. Raabe, E. Howard, E. Ingrim, R. Howard, P. White, D. Tufts, P. Day, G. Rowe, R. MeckfesselSeated: F. Jacobsen, W. Robbins, J. Golden, B. Moses, J. Tufts, J. Huberty, M. Super, F. Sears, L. Irwin, M. Michaels, B. Moses",
+  "schema:identifier": [
+    "MC-201",
+    "ark:/87293/d3t17w"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5b69r85p/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "028 Scouts And Friends At Southside Park And Riverside Baths - Sacramento",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}
