@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "043",
   "ebucore:filename": "043-In_the_Sierras.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

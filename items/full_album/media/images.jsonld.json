@@ -15,7 +15,7 @@
     "schema:MediaObject"
   ],
   "schema:encodesCreativeWork": {
-    "@id": "@base:../.."
+    "@id": "@base:../full_album.pdf"
   },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {

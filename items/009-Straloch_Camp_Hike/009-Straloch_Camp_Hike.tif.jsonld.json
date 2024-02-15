@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "009",
   "ebucore:filename": "009-Straloch_Camp_Hike.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "010",
   "ebucore:filename": "010-Picnic_Day.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

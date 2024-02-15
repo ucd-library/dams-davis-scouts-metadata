@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "012",
   "ebucore:filename": "012-Straloch_Farm.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

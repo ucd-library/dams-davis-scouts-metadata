@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "016",
   "ebucore:filename": "016-Camp_Cosumnes.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

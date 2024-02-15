@@ -19,13 +19,13 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1927"
   },
-  "schema:description": "Photographs of Davis Boy Scout Troop #1.",
+  "schema:description": "Photographs of Davis Boy Scout Troop #1. [Full album view.]",
   "schema:identifier": [
     "ark:/87293/d33f4ks73",
     "MC-201"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/images"
+    "@id": "@base:/media/full_album.pdf"
   },
   "schema:image": {
     "@id": "@base:/media/images/001-Photograph_album_Front_Cover.tif"

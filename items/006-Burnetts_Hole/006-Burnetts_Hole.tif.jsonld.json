@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "006",
   "ebucore:filename": "006-Burnetts_Hole.tif",
   "ebucore:hasMimeType": "image/tiff"
 }

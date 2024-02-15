@@ -14,7 +14,6 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:position": "030",
   "ebucore:filename": "030-Summer_Camp_Camp_Bigelow.tif",
   "ebucore:hasMimeType": "image/tiff"
 }
