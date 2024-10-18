@@ -21,7 +21,10 @@
     "@value": "2020"
   },
   "schema:description": "This photograph album contains 79 black and white photographs which document the activities of the local Davis, California Boy Scout troop from 1922 to 1927. The image subjects include: troop meetings, hikes, and camping, as well as the construction of the Davis Boy Scout Cabin.  To view the album as a single record and to download the entire set of images, go to the \"Full Album\" record. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt5b69r85p/)",
-  "schema:identifier": "MC-201",
+  "schema:identifier": [
+    "MC-201",
+    "ark:/87293/d3125qh2q"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3st8w/059-Boy_Scout_Cabin.tif"
   },
